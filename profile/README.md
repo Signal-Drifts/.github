@@ -1,5 +1,5 @@
-Hi There 👋
-![White Line](./white-line.svg)
+Hi There 👋 <br>
+<img src="./white-line-fixed.svg" width="100%" alt="White line"> <br>
 Welcome to **Signal Drift**!
 
 A playground for learning AI and building apps.
@@ -13,7 +13,7 @@ For free, hands-on learning resources, visit the **[Learning Center](https://sig
 <br>
 For video tutorials, visit my **[YouTube channel](https://www.youtube.com/@signaldrift2)**.
 
-![White Line](./white-line.svg)
+<img src="./white-line-fixed.svg" width="100%" alt="White line"> <br>
 **Happy Building!**<br>
 <br>
 <img width="56" height="39" alt="Git Profile Signature Logo" src="https://github.com/user-attachments/assets/9d9cbf8d-4d6b-4d09-96eb-0a063cfe2b6a" /> <br>
