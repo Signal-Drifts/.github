@@ -1,5 +1,5 @@
-##Hi There 👋 <br>
-<img src="./white-line-fixed.svg" width="100%" alt="White line"> <br>
+## Hi There 👋 <br>
+
 Welcome to **Signal Drift**!
 
 A playground for learning AI and building apps.
