@@ -13,5 +13,5 @@ For free, hands-on learning resources, visit the **[Learning Center](https://sig
 <br>
 For video tutorials, visit my **[YouTube channel](https://www.youtube.com/@signaldrift2)**.
  
-Happy Building!
+Happy Building!<br>
 Signal Drift
