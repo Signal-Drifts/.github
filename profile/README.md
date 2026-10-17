@@ -10,6 +10,6 @@ For in-depth analysis of AI and tools, subscribe to my newsletter, [Signal Drift
 <br>
 For free, hands-on learning resources, visit the [Learning Center](https://signaldrifts.substack.com/p/learningcenter).
 <br>
-For video tutorials, visit my youtube channel @[Signal Drifts](https://www.youtube.com/@signaldrift2).
+For video tutorials, visit my youtube channel [Signal Drifts](https://www.youtube.com/@signaldrift2).
 
 
