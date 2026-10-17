@@ -15,3 +15,4 @@ For video tutorials, visit my **[YouTube channel](https://www.youtube.com/@signa
  
 Happy Building!<br>
 Signal Drift
+<img width="1622" height="166" alt="bird-logo-webbg-blend" src="https://github.com/user-attachments/assets/725a8a0b-6029-4a69-9489-d5ed985fae11" />
