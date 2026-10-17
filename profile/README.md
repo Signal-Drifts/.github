@@ -14,5 +14,5 @@ For free, hands-on learning resources, visit the **[Learning Center](https://sig
 For video tutorials, visit my **[YouTube channel](https://www.youtube.com/@signaldrift2)**.
  
 Happy Building!<br>
-Signal Drift
-<img width="1622" height="80" alt="bird-logo-webbg-blend" src="https://github.com/user-attachments/assets/725a8a0b-6029-4a69-9489-d5ed985fae11" />
+Signal Drift<br>
+<img width="80" height="55" alt="Git Profile Signature Logo" src="https://github.com/user-attachments/assets/82eeb651-09ba-4cc8-ae6d-5bc592793eb1" />
