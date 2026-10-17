@@ -15,4 +15,4 @@ For video tutorials, visit my **[YouTube channel](https://www.youtube.com/@signa
  
 Happy Building!<br>
 Signal Drift<br>
-<img width="80" height="55" alt="Git Profile Signature Logo" src="https://github.com/user-attachments/assets/82eeb651-09ba-4cc8-ae6d-5bc592793eb1" />
+<img width="56" height="39" alt="Git Profile Signature Logo" src="https://github.com/user-attachments/assets/9d9cbf8d-4d6b-4d09-96eb-0a063cfe2b6a" />
