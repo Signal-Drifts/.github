@@ -9,9 +9,9 @@ Explore projects on LLM tooling, agent security, and practical macOS utilities. 
 
 For in-depth analysis of AI and tools, subscribe to my **[Newsletter](https://signaldrifts.substack.com/)**.
 <br>
-For free, hands-on learning resources, visit the **Learning Center** (https://signaldrifts.substack.com/p/learningcenter).
+For free, hands-on learning resources, visit the **[Learning Center](https://signaldrifts.substack.com/p/learningcenter)**.
 <br>
-For video tutorials, visit my **YouTube channel** @ [Signal Drift](https://www.youtube.com/@signaldrift2).
+For video tutorials, visit my **[YouTube channel](https://www.youtube.com/@signaldrift2)**.
  
 Happy Building!
 Signal Drift
